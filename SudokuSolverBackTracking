@@ -84,7 +84,7 @@ def print_board(bo):
             else:
                 print(str(bo[i][j]) + " ", end="")
 
-# Kerem Şenberber Y24LBIM803
+
 print(find_empty(board))
 solve(board) # It solves one by one, so that we can not visualize to the all empty boxes
 print_board(board)
