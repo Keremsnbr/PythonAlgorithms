@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "publish_date": "2003",
+      "isbn": 9780452284241,
+      "is_borrowed": false,
+      "borrower": null
+    },
+    {
+      "title": "Chess",
+      "author": "Stefan Zweig",
+      "publish_date": "1943",
+      "isbn": 78123612012,
+      "is_borrowed": true,
+      "borrower": 2231322223
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "publish_date": "1949",
+      "isbn": 2123012312,
+      "is_borrowed": false,
+      "borrower": null
+    },
+    {
+      "title": "sdasda",
+      "author": "asdads",
+      "publish_date": "1922",
+      "isbn": 3819872310,
+      "is_borrowed": false,
+      "borrower": null
+    },
+    {
+      "title": "aa",
+      "author": "bb",
+      "publish_date": "xxxx",
+      "isbn": 2314525446,
+      "is_borrowed": true,
+      "borrower": 17140103
+    },
+    {
+      "title": "fb",
+      "author": "gs",
+      "publish_date": "2024",
+      "isbn": 1010101010,
+      "is_borrowed": false,
+      "borrower": null
+    }
+  ],
+  "users": [
+    {
+      "first_name": "Selim",
+      "last_name": "Altay",
+      "student_id": 15040203
+    },
+    {
+      "first_name": "Aylin",
+      "last_name": "Kaya",
+      "student_id": 17140103
+    },
+    {
+      "first_name": "Kerem",
+      "last_name": "CANAN",
+      "student_id": 221401223
+    },
+    {
+      "first_name": "SAR",
+      "last_name": "TAR",
+      "student_id": 2231322223
+    }
+  ]
+}
